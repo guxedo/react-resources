@@ -5,3 +5,4 @@
 - [Getting Started with Redux](https://redux.js.org/introduction/getting-started)
 - [Deploying a Web App Using PostgreSQL, Express, and React](https://medium.com/@lawrencejiang/creating-and-deploying-a-web-app-d146464fceb0)
 - [How to fetch data in React](https://www.robinwieruch.de/react-fetching-data/)
+- [How to pass props to components in React](https://www.robinwieruch.de/react-pass-props-to-component/)
